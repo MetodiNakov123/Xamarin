@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage Title="{Binding Title}" xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MicroInstagram.Views.PhotoDetailsPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Save" Clicked="Save_Clicked"/>
+    </ContentPage.ToolbarItems>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <ImageButton Grid.Row="0" Grid.Column="0" Aspect="Fill" x:Name="image" Clicked="Image_Clicked"/>
+
+        <Entry Grid.Row="1" Grid.Column="0" FontSize="Medium" Margin="10" VerticalOptions="Center" x:Name="title"/>
+        <Entry Grid.Row="2" Grid.Column="0" FontSize="Medium" Margin="10" VerticalOptions="Center" x:Name="thumbnailUrl"/>
+        <Button Grid.Row="3" Grid.Column="0" Text="Delete" WidthRequest="90" Clicked="Delete_Clicked" TextColor="White" BackgroundColor="#DF1313"/>
+
+    </Grid>
+</ContentPage>

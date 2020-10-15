@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage NavigationPage.HasBackButton="False" xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MicroInstagram.Views.AddNewPhotoPage"
+             Title="Add New Photo">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Cancel" Clicked="Cancel_Clicked"/>
+        <ToolbarItem Text="Save" Clicked="Save_Clicked"/>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout Spacing="20" Padding="15">
+            <Label Text="Title" FontSize="Title" TextColor="Black"/>
+            <Entry x:Name="Title" Placeholder="Insert Title" FontSize="Medium" />
+
+            <Label Text="Url" FontSize="Title" TextColor="Black"/>
+            <Entry x:Name="Url" Placeholder="Insert Url" FontSize="Medium" />
+
+            <Label Text="ThumbnailUrl" FontSize="Title" TextColor="Black" />
+            <Entry x:Name="ThumbnailUrl" Placeholder="Insert ThumbnailUrl" FontSize="Medium" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

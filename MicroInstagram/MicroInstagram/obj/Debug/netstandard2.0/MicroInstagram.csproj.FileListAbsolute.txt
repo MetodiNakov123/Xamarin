@@ -1,0 +1,17 @@
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\bin\Debug\netstandard2.0\MicroInstagram.deps.json
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\bin\Debug\netstandard2.0\MicroInstagram.dll
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\obj\Debug\netstandard2.0\MicroInstagram.csprojAssemblyReference.cache
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\obj\Debug\netstandard2.0\MicroInstagram.AssemblyInfoInputs.cache
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\obj\Debug\netstandard2.0\MicroInstagram.AssemblyInfo.cs
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\bin\Debug\netstandard2.0\ref\MicroInstagram.dll
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\bin\Debug\netstandard2.0\MicroInstagram.pdb
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\obj\Debug\netstandard2.0\MicroInstagram.dll
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\obj\Debug\netstandard2.0\ref\MicroInstagram.dll
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\obj\Debug\netstandard2.0\MicroInstagram.pdb
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\obj\Debug\netstandard2.0\Views\PhotoDetailsPage.xaml.g.cs
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\obj\Debug\netstandard2.0\Views\PhotoFullScreenPage.xaml.g.cs
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\obj\Debug\netstandard2.0\Views\AddNewPhotoPage.xaml.g.cs
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\obj\Debug\netstandard2.0\MicroInstagram.csproj.CoreCompileInputs.cache
+C:\Users\Metodi\source\repos\MicroInstagram\MicroInstagram\MicroInstagram\obj\Debug\netstandard2.0\XamlC.stamp
